@@ -17,7 +17,7 @@
 
 * задать массив строк 
 
-![начало, задаём массив](image\start.png)
+![начало, задаём массив](https://github.com/alexe127/Control-work-first-quarter/blob/main/image/start.png)
 
 * задать счётчик и подсчитать количество элементов для конечного массива
 
