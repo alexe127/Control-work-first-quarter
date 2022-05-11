@@ -9,3 +9,14 @@ void printArray(string[] array)
         Console.Write($"{array[i]} ");
         Console.WriteLine();
 }
+// метод считает количество элементов для нового массива
+int countElements(string[] array)
+{
+    int count = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+            count++;
+    }
+    return count;
+}
