@@ -21,19 +21,19 @@
 
 * задать счётчик и подсчитать количество элементов для конечного массива
 
-![элементы](elements.png)
+![элементы](https://github.com/alexe127/Control-work-first-quarter/blob/main/image/elements.png)
 
 * сформировать массив из строк, длина которых меньше либо равна 3 символа
 
-![массив](newarray.png)
+![массив](https://github.com/alexe127/Control-work-first-quarter/blob/main/image/newarray.png)
 
 * вывести сформированный массив
 
-![вывод массива](print.png)
+![вывод массива](https://github.com/alexe127/Control-work-first-quarter/blob/main/image/print.png)
 
 Целиком блок-схема выглядит так:
 
-![схема](blokdiagram.png)
+![схема](https://github.com/alexe127/Control-work-first-quarter/blob/main/image/blokdiagram.png)
 
 # Задача описание
 Написать программу, которая из имеющегося массива строк формирует массив из строк, 
@@ -46,5 +46,5 @@
 
 # Задача код
 
-![Решение задачи](code.png)
+![Решение задачи](https://github.com/alexe127/Control-work-first-quarter/blob/main/image/code.png)
 код программы находится в папке task файл Program
